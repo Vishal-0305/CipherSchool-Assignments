@@ -22,5 +22,5 @@ int main(){
 
     cout<<"The value of c is : "<<c<<endl;
 
-    return 0;
+    
 }
