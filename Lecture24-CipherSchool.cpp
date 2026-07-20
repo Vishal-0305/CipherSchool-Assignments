@@ -28,5 +28,5 @@ int main(){
     cout<<"The value of a[0] is "<<&a[0]<<endl;
     cout<<"The value of a[1] is "<<&a[1]<<endl;
 
-    return 0;
+   
 }
