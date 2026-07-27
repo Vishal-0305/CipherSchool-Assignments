@@ -17,5 +17,5 @@ int main(){
 	c=a+b;
 	cout<<"Sum of a and b are: "<<c<<endl;
 	cout<<"The length of combined a and b are: "<<c.length()<<endl;
-	return 0;
+	
 }
