@@ -28,5 +28,5 @@ int main() {
     cout << "Student 2 Information:" << endl;
     student2.displayInfo();
 
-    return 0;
+    
 }
