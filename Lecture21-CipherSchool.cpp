@@ -7,5 +7,5 @@ int main(){
 
     cout<<"The address of a is : "<<&a;
 
-    return 0;
+    
 }
